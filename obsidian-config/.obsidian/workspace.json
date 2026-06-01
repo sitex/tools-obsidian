@@ -1,0 +1,61 @@
+{
+  "main": {
+    "id": "main",
+    "type": "split",
+    "children": [
+      {
+        "id": "explorer",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "left",
+    "type": "split",
+    "children": [
+      {
+        "id": "left-leaf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical",
+    "width": 260
+  },
+  "right": {
+    "id": "right",
+    "type": "split",
+    "children": [
+      {
+        "id": "right-leaf",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": null,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "explorer",
+  "lastOpenFiles": []
+}

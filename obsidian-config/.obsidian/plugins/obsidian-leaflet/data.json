@@ -1,0 +1,17 @@
+{
+  "version": "4.0.0",
+  "mapViewState": {
+    "lat": -27.5,
+    "lng": 153.0,
+    "zoom": 8
+  },
+  "defaultZoom": 5,
+  "defaultMapHeight": 500,
+  "defaultMarkerColor": "#3388ff",
+  "defaultMarkerIcon": "home",
+  "copyOnClick": false,
+  "notePreview": true,
+  "enableClusters": false,
+  "geojsonColor": "#3388ff",
+  "geojsonFolder": "geo"
+}
