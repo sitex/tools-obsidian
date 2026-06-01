@@ -9,12 +9,10 @@
   "spellcheck": false,
   "strictLineBreaks": false,
   "foldHeading": true,
-  "baseFontSize": 16,
   "attachmentFolderPath": ".",
   "newFileLocation": "current",
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
   "alwaysUpdateLinks": false,
-  "readableLineLength": true,
-  "nativeMenus": false
+  "readableLineLength": true
 }

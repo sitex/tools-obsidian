@@ -463,22 +463,6 @@
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.1889,
-          -8.4095
-        ]
-      },
-      "properties": {
-        "name": "Home Cafe",
-        "type": "cafe",
-        "location": "Бали",
-        "description": "Кафе на Бали"
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": null,
       "properties": {
         "name": "IGA",
@@ -515,22 +499,6 @@
       "properties": {
         "name": "Logan Park Farm",
         "type": "place"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.1889,
-          -8.4095
-        ]
-      },
-      "properties": {
-        "name": "Montana Cafe",
-        "type": "cafe",
-        "location": "Бали",
-        "description": "Кафе на Бали"
       }
     },
     {

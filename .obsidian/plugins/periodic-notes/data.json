@@ -1,4 +1,47 @@
 {
+  "installedVersion": "1.0.0-beta1",
+  "activeCalendarSet": "Default",
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "calendarSets": [
+    {
+      "day": {
+        "enabled": true,
+        "format": "YYYY-MM-DD",
+        "folder": "journals/{{date:YYYY}}",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "week": {
+        "enabled": false,
+        "format": "",
+        "folder": "",
+        "openAtStartup": false
+      },
+      "month": {
+        "enabled": false,
+        "format": "",
+        "folder": "",
+        "openAtStartup": false
+      },
+      "quarter": {
+        "enabled": false,
+        "format": "",
+        "folder": "",
+        "openAtStartup": false
+      },
+      "year": {
+        "enabled": false,
+        "format": "",
+        "folder": "",
+        "openAtStartup": false
+      },
+      "id": "Default",
+      "ctime": "2026-06-02T01:31:01+10:00"
+    }
+  ],
+  "enableTimelineComplication": true,
   "daily": {
     "enabled": true,
     "format": "YYYY-MM-DD",

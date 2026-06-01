@@ -4,5 +4,6 @@
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "interfaceFontFamily": "",
-  "cssTheme": ""
+  "cssTheme": "",
+  "nativeMenus": false
 }
