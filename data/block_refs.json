@@ -1,0 +1,1643 @@
+{
+  "id_map": {
+    "680f36ba-51d8-47c3-8a8e-12efe7f1e678": {
+      "file": "2025-04-28 ClearCreditCardDetails.md",
+      "line": 43,
+      "text": "SELECT COUNT(*) FROM `isc_orders`"
+    },
+    "683de61f-83ce-4e38-b2ee-9bd22e3dce78": {
+      "file": "2025-06-02 Download All Checks.md",
+      "line": 75,
+      "text": "[tg_user] 502636908"
+    },
+    "683dc048-353d-4ffb-a6a7-2a1534ad41b6": {
+      "file": "2025-06-02 Download All Checks.md",
+      "line": 105,
+      "text": "[tg_user] 5603131672"
+    },
+    "68a06231-90ae-442b-a497-209f9bf6e784": {
+      "file": "2025-06-06 Let's Encrypt manual update.md",
+      "line": 6,
+      "text": "certbot"
+    },
+    "6849370f-107c-4cf1-a95e-3ceb80341148": {
+      "file": "2025-06-11 Прыжок веры.md",
+      "line": 17,
+      "text": "Например, я выбрал 45 минут в день на изучение английского для сдачи языкого экзамена. Это значит, что я буду готовиться"
+    },
+    "689db9c3-d91a-4f21-9a2b-0293bc1f7756": {
+      "file": "2025___Week 33.md",
+      "line": 2,
+      "text": "[[2025/08]]"
+    },
+    "681b2430-cccc-4d74-aa5b-eeaae3c47ae2": {
+      "file": "2150.md",
+      "line": 38,
+      "text": "17:13 Глава 7 - Безграничное «Я»"
+    },
+    "696d5bc9-ac65-46aa-8386-e692d370b2c1": {
+      "file": "ACS - Letter 20260115.md",
+      "line": 97,
+      "text": "Question 7"
+    },
+    "68a163e6-539d-491b-b8ec-bd5f1b5ebc1a": {
+      "file": "AI - LogSeq Journal Organization 20250818.md",
+      "line": 76,
+      "text": "[[En - Help To 20250817]]"
+    },
+    "68a16289-e785-42db-ab2d-983cf8135a8d": {
+      "file": "AI - LogSeq Journal Organization 20250818.md",
+      "line": 95,
+      "text": "[[Z - 2 жизни 20250817]]"
+    },
+    "68a165aa-6f89-42c1-8290-b113e433dde9": {
+      "file": "AI - LogSeq Journal Organization 20250818.md",
+      "line": 98,
+      "text": "[[Z - VentraIP HTTPS Ticket 20250817]]"
+    },
+    "68a16555-3167-4cb6-9f4f-f7e566e7abfd": {
+      "file": "AI - LogSeq Journal Organization 20250818.md",
+      "line": 104,
+      "text": "[[Z - CRM карты 20250817]]"
+    },
+    "68a16524-caac-4fd7-9a2b-ddcc0ad9396b": {
+      "file": "AI - LogSeq Journal Organization 20250818.md",
+      "line": 110,
+      "text": "[[Z - Статьи про Крипту 20250817]] (40)"
+    },
+    "689dcdd9-c1c5-46df-8615-e87aaf7ea0a1": {
+      "file": "AI - Logseq Expense Query Scripting 20250814.md",
+      "line": 1399,
+      "text": "Список без ссылок"
+    },
+    "3b9c9c6a-aab4-4a5a-a0f9-7c6bdd50173d": {
+      "file": "Expenses.md",
+      "line": 127,
+      "text": "[[2026-01-01]]"
+    },
+    "b9ff2f32-d00c-4e7c-81a9-1727f0ff3dea": {
+      "file": "Expenses.md",
+      "line": 132,
+      "text": "[[2026-01-02]]"
+    },
+    "11326469-45fd-4553-b555-c63d7629312f": {
+      "file": "Expenses.md",
+      "line": 141,
+      "text": "[[2026-01-03]]"
+    },
+    "519a4d83-ec54-4bd2-bdfe-6151dfc252e9": {
+      "file": "Expenses.md",
+      "line": 150,
+      "text": "[[2026-01-04]]"
+    },
+    "c06459d5-3d21-4e0c-b1fb-bf96a3d8187c": {
+      "file": "Expenses.md",
+      "line": 159,
+      "text": "[[2026-01-05]]"
+    },
+    "a1e6a8af-111f-4411-9867-3ba278b3c0c8": {
+      "file": "Expenses.md",
+      "line": 170,
+      "text": "[[2026-01-07]]"
+    },
+    "55b8aad1-f687-4eaa-b525-ac0617467375": {
+      "file": "Expenses.md",
+      "line": 175,
+      "text": "[[2026-01-08]]"
+    },
+    "086e3048-4824-43ee-873b-2ac930e18f22": {
+      "file": "Expenses.md",
+      "line": 182,
+      "text": "[[2026-01-09]]"
+    },
+    "ae1361e9-99e0-4d6c-92d5-f6ad57bf4b05": {
+      "file": "Expenses.md",
+      "line": 199,
+      "text": "[[2026-01-10]]"
+    },
+    "b83a7575-4db3-4429-9625-5707da045a0c": {
+      "file": "Expenses.md",
+      "line": 219,
+      "text": "[[2026-01-11]]"
+    },
+    "14e93cba-58f3-496a-ae5c-ce7fffd43e68": {
+      "file": "Expenses.md",
+      "line": 226,
+      "text": "[[2026-01-12]]"
+    },
+    "723aab74-0c19-4109-871d-a126b61ce7ad": {
+      "file": "Expenses.md",
+      "line": 243,
+      "text": "[[2026-01-13]]"
+    },
+    "569383b7-2590-40c8-bf73-afedfde1becb": {
+      "file": "Expenses.md",
+      "line": 255,
+      "text": "[[2026-01-14]]"
+    },
+    "80d4dd59-fe61-4d15-9bf2-939902c9eca4": {
+      "file": "Expenses.md",
+      "line": 262,
+      "text": "[[2026-01-15]]"
+    },
+    "cc518776-88c3-4347-870c-2b5ede66c004": {
+      "file": "Expenses.md",
+      "line": 269,
+      "text": "[[2026-01-16]]"
+    },
+    "e9002f98-23a6-488d-9657-46198a4e3abf": {
+      "file": "Expenses.md",
+      "line": 280,
+      "text": "[[2026-01-17]]"
+    },
+    "a219f596-8824-4153-a7b9-2f11060a3da0": {
+      "file": "Expenses.md",
+      "line": 287,
+      "text": "[[2026-01-18]]"
+    },
+    "172f6db0-92a7-4f7c-b5ea-418d101bc295": {
+      "file": "Expenses.md",
+      "line": 294,
+      "text": "[[2026-01-19]]"
+    },
+    "e8e7814b-80f1-46b9-883b-737604f6cc51": {
+      "file": "Expenses.md",
+      "line": 305,
+      "text": "[[2026-01-20]]"
+    },
+    "0853522b-80b1-406f-8070-a918b5fe2c0c": {
+      "file": "Expenses.md",
+      "line": 318,
+      "text": "[[2026-01-21]]"
+    },
+    "7ad65ed4-9edd-4b59-ac1a-880494043df0": {
+      "file": "Expenses.md",
+      "line": 325,
+      "text": "[[2026-01-22]]"
+    },
+    "76341293-d1a4-4862-9e6d-d54c60016964": {
+      "file": "Expenses.md",
+      "line": 332,
+      "text": "[[2026-01-23]]"
+    },
+    "c5a5bfeb-f708-4abd-ac57-b8a26e686912": {
+      "file": "Expenses.md",
+      "line": 343,
+      "text": "[[2026-01-24]]"
+    },
+    "79de491f-42e2-44cf-95c6-1959318999c5": {
+      "file": "Expenses.md",
+      "line": 352,
+      "text": "[[2026-01-25]]"
+    },
+    "d0c86925-6610-40ae-9fb0-cb848f7e3636": {
+      "file": "Expenses.md",
+      "line": 359,
+      "text": "[[2026-01-26]]"
+    },
+    "291e8a74-6d9b-4500-9d6d-a6a3d79ab339": {
+      "file": "Expenses.md",
+      "line": 368,
+      "text": "[[2026-01-27]]"
+    },
+    "b0e1fb0d-b007-498c-9c4a-2c44aa19c840": {
+      "file": "Expenses.md",
+      "line": 387,
+      "text": "[[2026-01-28]]"
+    },
+    "46ede4c0-532d-40fb-ac8e-fc9e7d8d50e7": {
+      "file": "Expenses.md",
+      "line": 398,
+      "text": "[[2026-01-29]]"
+    },
+    "979ac5be-fc10-4cbd-aa66-7f0766396b97": {
+      "file": "Expenses.md",
+      "line": 409,
+      "text": "[[2026-01-30]]"
+    },
+    "7eb19749-a74f-4a17-b8ef-745136c7fb4d": {
+      "file": "Expenses.md",
+      "line": 418,
+      "text": "[[2026-01-31]]"
+    },
+    "c51f44fd-c84a-4641-b671-ada36d799e79": {
+      "file": "Expenses.md",
+      "line": 476,
+      "text": "[[2026-02-01]]"
+    },
+    "0b9bb37a-41cc-4968-b671-ea1295018acf": {
+      "file": "Expenses.md",
+      "line": 483,
+      "text": "[[2026-02-02]]"
+    },
+    "1a9fce87-4351-4981-9e45-7bf978076be7": {
+      "file": "Expenses.md",
+      "line": 496,
+      "text": "[[2026-02-03]]"
+    },
+    "bf6224cf-a93e-4212-8cf2-c35ac623a2cd": {
+      "file": "Expenses.md",
+      "line": 507,
+      "text": "[[2026-02-04]]"
+    },
+    "6337d090-b872-4023-8055-dbbe3fa5e5fa": {
+      "file": "Expenses.md",
+      "line": 514,
+      "text": "[[2026-02-05]]"
+    },
+    "80c16455-7105-47bd-ac01-14e8671b4dbe": {
+      "file": "Expenses.md",
+      "line": 527,
+      "text": "[[2026-02-06]]"
+    },
+    "c500084f-32e9-48a3-9479-1ec7b1a4577b": {
+      "file": "Expenses.md",
+      "line": 534,
+      "text": "[[2026-02-07]]"
+    },
+    "cf7e22c5-b3a7-4344-b54d-66a9dd86535a": {
+      "file": "Expenses.md",
+      "line": 541,
+      "text": "[[2026-02-08]]"
+    },
+    "4cb3f3e3-95be-4939-9c73-838f6e5b3847": {
+      "file": "Expenses.md",
+      "line": 552,
+      "text": "[[2026-02-09]]"
+    },
+    "771b1617-cac1-401e-8adf-e9302a786fde": {
+      "file": "Expenses.md",
+      "line": 565,
+      "text": "[[2026-02-10]]"
+    },
+    "745894ba-b833-4605-9452-a88a05d3d24c": {
+      "file": "Expenses.md",
+      "line": 572,
+      "text": "[[2026-02-11]]"
+    },
+    "d65b0807-9464-422e-a33f-86dc89f34a17": {
+      "file": "Expenses.md",
+      "line": 584,
+      "text": "[[2026-02-12]]"
+    },
+    "ae31a9ce-f3a7-44cb-8887-1357656aa3be": {
+      "file": "Expenses.md",
+      "line": 597,
+      "text": "[[2026-02-13]]"
+    },
+    "ba4fecf7-b12d-478f-819e-e19a7f810a7e": {
+      "file": "Expenses.md",
+      "line": 602,
+      "text": "[[2026-02-14]]"
+    },
+    "ac43bf47-f453-4599-b031-abb6052fdaeb": {
+      "file": "Expenses.md",
+      "line": 607,
+      "text": "[[2026-02-16]]"
+    },
+    "fbce646d-7543-4051-96e9-e0f7e73fd09a": {
+      "file": "Expenses.md",
+      "line": 620,
+      "text": "[[2026-02-17]]"
+    },
+    "3ef3c190-3fc3-42c3-a9dc-565964c2b613": {
+      "file": "Expenses.md",
+      "line": 627,
+      "text": "[[2026-02-18]]"
+    },
+    "65846b6b-2d41-4f9e-ad19-9a9c6656f0d0": {
+      "file": "Expenses.md",
+      "line": 636,
+      "text": "[[2026-02-19]]"
+    },
+    "1e0aef00-650a-41a7-a3a7-3e183b16fbc2": {
+      "file": "Expenses.md",
+      "line": 647,
+      "text": "[[2026-02-20]]"
+    },
+    "9c568248-2c05-4f30-8683-c76ce0044b90": {
+      "file": "Expenses.md",
+      "line": 652,
+      "text": "[[2026-02-21]]"
+    },
+    "b680cfcf-60cd-4e38-8001-0faad86cb3cf": {
+      "file": "Expenses.md",
+      "line": 661,
+      "text": "[[2026-02-22]]"
+    },
+    "80e1030c-67f8-4686-ace6-a3a03f59dd4c": {
+      "file": "Expenses.md",
+      "line": 682,
+      "text": "[[2026-02-23]]"
+    },
+    "99d80858-879d-45d1-825c-5d2d49a30083": {
+      "file": "Expenses.md",
+      "line": 693,
+      "text": "[[2026-02-24]]"
+    },
+    "c8bf88e8-4a5e-4d53-b764-f09499fd5e87": {
+      "file": "Expenses.md",
+      "line": 702,
+      "text": "[[2026-02-25]]"
+    },
+    "4f1d540e-5d8c-4a02-ae21-87959d11ebfb": {
+      "file": "Expenses.md",
+      "line": 707,
+      "text": "[[2026-02-26]]"
+    },
+    "ebe2cc28-a9c7-4a58-bb44-e2dfef8aadfe": {
+      "file": "Expenses.md",
+      "line": 711,
+      "text": "[[2026-02-27]]"
+    },
+    "a0b1c2d3-e4f5-6789-abcd-ef1234567890": {
+      "file": "Expenses.md",
+      "line": 749,
+      "text": "[[2026-03-01]]"
+    },
+    "d4e5f304-0304-4304-8304-030420260304": {
+      "file": "Expenses.md",
+      "line": 760,
+      "text": "[[2026-03-04]]"
+    },
+    "e5f60305-0305-4305-8305-030520260305": {
+      "file": "Expenses.md",
+      "line": 769,
+      "text": "[[2026-03-05]]"
+    },
+    "f6a70306-0306-4306-8306-030620260306": {
+      "file": "Expenses.md",
+      "line": 784,
+      "text": "[[2026-03-06]]"
+    },
+    "c8d9e0f1-a2b3-4567-cdef-012345678901": {
+      "file": "Expenses.md",
+      "line": 805,
+      "text": "[[2026-03-07]]"
+    },
+    "b2c3d4e5-f6a7-8901-bcde-fa2345678901": {
+      "file": "Expenses.md",
+      "line": 830,
+      "text": "[[2026-03-11]]"
+    },
+    "c3d4e5f6-a7b8-9012-cdef-0b2345678901": {
+      "file": "Expenses.md",
+      "line": 843,
+      "text": "[[2026-03-12]]"
+    },
+    "d4e5f6a7-b8c9-0123-def0-1c2345678901": {
+      "file": "Expenses.md",
+      "line": 850,
+      "text": "[[2026-03-13]]"
+    },
+    "e5f6a7b8-c9d0-1234-ef01-2d3456789012": {
+      "file": "Expenses.md",
+      "line": 859,
+      "text": "[[2026-03-14]]"
+    },
+    "f6a7b8c9-d0e1-2345-f012-3e4567890123": {
+      "file": "Expenses.md",
+      "line": 866,
+      "text": "[[2026-03-15]]"
+    },
+    "a7b8c9d0-e1f2-3456-0123-4f5678901234": {
+      "file": "Expenses.md",
+      "line": 873,
+      "text": "[[2026-03-16]]"
+    },
+    "9289ac74-fdb7-4ae0-8f33-f30b4d7de3de": {
+      "file": "Expenses.md",
+      "line": 1805,
+      "text": "[[2025-05-24]]"
+    },
+    "9281162a-19cb-4d54-ac81-6ad8e665336c": {
+      "file": "Expenses.md",
+      "line": 1816,
+      "text": "[[2025-05-25]]"
+    },
+    "dbc61a2a-6a09-4b28-b6b4-8549597d51b8": {
+      "file": "Expenses.md",
+      "line": 1827,
+      "text": "[[2025-05-27]]"
+    },
+    "6ab6c6cc-201d-42a3-9837-57416e641b6a": {
+      "file": "Expenses.md",
+      "line": 1838,
+      "text": "[[2025-05-28]]"
+    },
+    "f51ffc3d-0a27-4763-b7cb-100d4d5ab238": {
+      "file": "Expenses.md",
+      "line": 1853,
+      "text": "[[2025-05-29]]"
+    },
+    "3721467b-09c3-4fa2-921c-ff1f477ba65a": {
+      "file": "Expenses.md",
+      "line": 1870,
+      "text": "[[2025-05-31]]"
+    },
+    "cdc943d1-438b-466c-84de-1790424ba130": {
+      "file": "Expenses.md",
+      "line": 1945,
+      "text": "[[2025-06-01]]"
+    },
+    "87009976-b83e-4ce4-90b7-25b87e12ce6e": {
+      "file": "Expenses.md",
+      "line": 1954,
+      "text": "[[2025-06-02]]"
+    },
+    "383120ce-d354-45bf-98f7-d180fd9fdc83": {
+      "file": "Expenses.md",
+      "line": 1976,
+      "text": "[[2025-06-03]]"
+    },
+    "d30c55bf-aa0e-482c-9830-82943e3ce659": {
+      "file": "Expenses.md",
+      "line": 1986,
+      "text": "[[2025-06-04]]"
+    },
+    "92262580-ee0b-41b4-ac40-7a108a12a1a2": {
+      "file": "Expenses.md",
+      "line": 1995,
+      "text": "[[2025-06-05]]"
+    },
+    "9b0a8fee-239a-4902-8f45-55e14909f384": {
+      "file": "Expenses.md",
+      "line": 2012,
+      "text": "[[2025-06-06]]"
+    },
+    "bf55e029-e8d5-4311-934e-f2f6bd94502d": {
+      "file": "Expenses.md",
+      "line": 2023,
+      "text": "[[2025-06-07]]"
+    },
+    "91abae62-0620-4835-8d25-8af041484c2c": {
+      "file": "Expenses.md",
+      "line": 2034,
+      "text": "[[2025-06-08]]"
+    },
+    "a86f1e4c-3d21-4e6b-a2c4-17374e8c1d4f": {
+      "file": "Expenses.md",
+      "line": 2047,
+      "text": "[[2025-06-09]]"
+    },
+    "009e8eb2-8be3-4091-b259-82d167f3e5e1": {
+      "file": "Expenses.md",
+      "line": 2058,
+      "text": "[[2025-06-10]]"
+    },
+    "db9772e2-c1e6-4176-94c7-6246eb1be732": {
+      "file": "Expenses.md",
+      "line": 2067,
+      "text": "[[2025-06-12]]"
+    },
+    "57d39cee-9e9e-4b3f-980f-efb29deec9ef": {
+      "file": "Expenses.md",
+      "line": 2085,
+      "text": "[[2025-06-13]]"
+    },
+    "030a091b-f473-4139-9305-46bd2ee22326": {
+      "file": "Expenses.md",
+      "line": 2102,
+      "text": "[[2025-06-14]]"
+    },
+    "002afcd9-a501-4b77-8292-af36ffbc908a": {
+      "file": "Expenses.md",
+      "line": 2115,
+      "text": "[[2025-06-15]]"
+    },
+    "98dca672-4e40-4dae-b828-32c5b9f7d80f": {
+      "file": "Expenses.md",
+      "line": 2130,
+      "text": "[[2025-06-16]]"
+    },
+    "8f8a6701-3b80-45b6-bc22-3c47cc2bb814": {
+      "file": "Expenses.md",
+      "line": 2143,
+      "text": "[[2025-06-17]]"
+    },
+    "64b06579-39d4-4160-b757-d455c6a2fe03": {
+      "file": "Expenses.md",
+      "line": 2156,
+      "text": "[[2025-06-18]]"
+    },
+    "7754887b-4570-4f56-b2e2-1406231e82b7": {
+      "file": "Expenses.md",
+      "line": 2175,
+      "text": "[[2025-06-19]]"
+    },
+    "5ece45f7-993e-495a-9359-aa123fc89698": {
+      "file": "Expenses.md",
+      "line": 2182,
+      "text": "[[2025-06-20]]"
+    },
+    "266a9fc2-3536-4cfa-8ab4-85bccda79c1a": {
+      "file": "Expenses.md",
+      "line": 2207,
+      "text": "[[2025-06-21]]"
+    },
+    "27e9ba7e-ef77-4e49-9add-88524f809af8": {
+      "file": "Expenses.md",
+      "line": 2226,
+      "text": "[[2025-06-22]]"
+    },
+    "74d0153c-46dd-46aa-a55c-1b093a17b34b": {
+      "file": "Expenses.md",
+      "line": 2237,
+      "text": "[[2025-06-23]]"
+    },
+    "6b088119-37f4-4c65-acd2-43e86cc14833": {
+      "file": "Expenses.md",
+      "line": 2258,
+      "text": "[[2025-06-24]]"
+    },
+    "7642ce14-550f-4438-80e5-6f2b896d7b02": {
+      "file": "Expenses.md",
+      "line": 2277,
+      "text": "[[2025-06-25]]"
+    },
+    "2ffeebf1-7744-4219-9b5e-5b78c278fd2a": {
+      "file": "Expenses.md",
+      "line": 2288,
+      "text": "[[2025-06-26]]"
+    },
+    "b4554c33-8e45-4305-b49b-acb4289804ef": {
+      "file": "Expenses.md",
+      "line": 2303,
+      "text": "[[2025-06-27]]"
+    },
+    "4d278a75-5cb3-4617-beb0-a3591426dc34": {
+      "file": "Expenses.md",
+      "line": 2326,
+      "text": "[[2025-06-28]]"
+    },
+    "06dd4801-86b8-4d33-8014-1fea4f22a3f2": {
+      "file": "Expenses.md",
+      "line": 2347,
+      "text": "[[2025-06-29]]"
+    },
+    "85ef9420-0f40-4b92-a0b1-77bb86eec8d8": {
+      "file": "Expenses.md",
+      "line": 2354,
+      "text": "[[2025-06-30]]"
+    },
+    "b15093dd-a3b5-4caa-86c8-9ba480740887": {
+      "file": "Expenses.md",
+      "line": 2421,
+      "text": "[[2025-07-01]]"
+    },
+    "0b09a250-8e21-484f-893b-7ca7f063597b": {
+      "file": "Expenses.md",
+      "line": 2426,
+      "text": "[[2025-07-02]]"
+    },
+    "edc5400f-a48c-47d2-b0af-3eeee4e8f8b9": {
+      "file": "Expenses.md",
+      "line": 2451,
+      "text": "[[2025-07-03]]"
+    },
+    "2599b8bd-3bcb-49bd-80b8-180795b547e8": {
+      "file": "Expenses.md",
+      "line": 2468,
+      "text": "[[2025-07-04]]"
+    },
+    "8ff33496-5b8a-409d-a0a3-00b84801bfe7": {
+      "file": "Expenses.md",
+      "line": 2485,
+      "text": "[[2025-07-05]]"
+    },
+    "455b8efa-e109-4961-a12c-2a15111c0241": {
+      "file": "Expenses.md",
+      "line": 2504,
+      "text": "[[2025-07-06]]"
+    },
+    "e9fcf316-abd5-40ad-9f85-cc50c663b1ba": {
+      "file": "Expenses.md",
+      "line": 2519,
+      "text": "[[2025-07-07]]"
+    },
+    "9e926c02-ba79-4a8b-9f8c-af51de38d3af": {
+      "file": "Expenses.md",
+      "line": 2536,
+      "text": "[[2025-07-08]]"
+    },
+    "e36e8450-350e-4146-bfbc-307774272318": {
+      "file": "Expenses.md",
+      "line": 2547,
+      "text": "[[2025-07-09]]"
+    },
+    "37f007c2-c346-4f34-96d5-e3b4c71d3d9a": {
+      "file": "Expenses.md",
+      "line": 2568,
+      "text": "[[2025-07-10]]"
+    },
+    "d76e65ae-112f-43b1-ac47-c0560316d808": {
+      "file": "Expenses.md",
+      "line": 2589,
+      "text": "[[2025-07-11]]"
+    },
+    "70bcc31f-2723-4825-9cea-dacad6d7a9a5": {
+      "file": "Expenses.md",
+      "line": 2598,
+      "text": "[[2025-07-12]]"
+    },
+    "571a4f18-5517-4935-a315-da99b45a37d5": {
+      "file": "Expenses.md",
+      "line": 2619,
+      "text": "[[2025-07-13]]"
+    },
+    "b0490328-5232-417c-ab04-7a60445076d7": {
+      "file": "Expenses.md",
+      "line": 2630,
+      "text": "[[2025-07-14]]"
+    },
+    "46d2028b-1e2c-4c94-b30e-d2c05286d1e6": {
+      "file": "Expenses.md",
+      "line": 2643,
+      "text": "[[2025-07-15]]"
+    },
+    "001163f4-535b-472d-9cef-2105749e8f2f": {
+      "file": "Expenses.md",
+      "line": 2670,
+      "text": "[[2025-07-16]]"
+    },
+    "5aff25eb-f986-4e6b-a1ad-335da236e522": {
+      "file": "Expenses.md",
+      "line": 2687,
+      "text": "[[2025-07-17]]"
+    },
+    "596b7a85-66c4-4f6c-b7d2-93996ccc15ae": {
+      "file": "Expenses.md",
+      "line": 2700,
+      "text": "[[2025-07-18]]"
+    },
+    "9833ce2e-f3f2-4a77-b451-58e2f62693a7": {
+      "file": "Expenses.md",
+      "line": 2719,
+      "text": "[[2025-07-19]]"
+    },
+    "6f80fc34-474c-4d3a-a14f-18b026156d6a": {
+      "file": "Expenses.md",
+      "line": 2732,
+      "text": "[[2025-07-20]]"
+    },
+    "b90dd071-f802-43fe-8558-87f6d0e8e423": {
+      "file": "Expenses.md",
+      "line": 2739,
+      "text": "[[2025-07-21]]"
+    },
+    "86b752b0-2747-428c-a2b7-74617095aabe": {
+      "file": "Expenses.md",
+      "line": 2750,
+      "text": "[[2025-07-22]]"
+    },
+    "304465d0-babe-4c60-9dc2-75a000beca50": {
+      "file": "Expenses.md",
+      "line": 2759,
+      "text": "[[2025-07-23]]"
+    },
+    "e78689a8-b771-45a1-b267-0871e3020b4e": {
+      "file": "Expenses.md",
+      "line": 2772,
+      "text": "[[2025-07-24]]"
+    },
+    "f9cc4388-59ab-473e-8ff7-e60c06fefdce": {
+      "file": "Expenses.md",
+      "line": 2783,
+      "text": "[[2025-07-25]]"
+    },
+    "011c9ff3-39b9-4ca7-9fc9-d2b12359892d": {
+      "file": "Expenses.md",
+      "line": 2798,
+      "text": "[[2025-07-26]]"
+    },
+    "c8bbb7fd-54d3-4d8d-8980-34ab29968b39": {
+      "file": "Expenses.md",
+      "line": 2825,
+      "text": "[[2025-07-27]]"
+    },
+    "ea4f368c-6046-47b7-bd17-7534cf9ad919": {
+      "file": "Expenses.md",
+      "line": 2838,
+      "text": "[[2025-07-28]]"
+    },
+    "366fd7d4-419f-4bcf-a606-ed2d0ab749c2": {
+      "file": "Expenses.md",
+      "line": 2847,
+      "text": "[[2025-07-29]]"
+    },
+    "3d5242ab-8af4-4b27-b068-a0881b6c0c3f": {
+      "file": "Expenses.md",
+      "line": 2868,
+      "text": "[[2025-07-30]]"
+    },
+    "7e90f360-1964-4fd0-867c-a32b37d0d06f": {
+      "file": "Expenses.md",
+      "line": 2877,
+      "text": "[[2025-07-31]]"
+    },
+    "1096a350-83fe-43cf-9218-2b5f18dee883": {
+      "file": "Expenses.md",
+      "line": 2938,
+      "text": "[[2025-08-01]]"
+    },
+    "677e9f35-07d8-4481-b6c1-b2b393b4f568": {
+      "file": "Expenses.md",
+      "line": 2961,
+      "text": "[[2025-08-02]]"
+    },
+    "d9a07bc1-ecea-4191-b43a-b4591083c645": {
+      "file": "Expenses.md",
+      "line": 2978,
+      "text": "[[2025-08-03]]"
+    },
+    "e22ddd90-58ba-417d-a941-fe4498f4d524": {
+      "file": "Expenses.md",
+      "line": 2993,
+      "text": "[[2025-08-04]]"
+    },
+    "028bdb55-ee2c-4d27-b90b-d34deadb7131": {
+      "file": "Expenses.md",
+      "line": 3004,
+      "text": "[[2025-08-05]]"
+    },
+    "64884be7-41de-4d4b-a166-272aaa3f46c9": {
+      "file": "Expenses.md",
+      "line": 3015,
+      "text": "[[2025-08-06]]"
+    },
+    "11961a89-11da-4ff2-941c-5af07144a829": {
+      "file": "Expenses.md",
+      "line": 3030,
+      "text": "[[2025-08-07]]"
+    },
+    "28b22c45-dfa2-48fe-be0e-bb2f74b44168": {
+      "file": "Expenses.md",
+      "line": 3049,
+      "text": "[[2025-08-08]]"
+    },
+    "8881bc74-2aee-4067-bdea-621c0636789e": {
+      "file": "Expenses.md",
+      "line": 3072,
+      "text": "[[2025-08-09]]"
+    },
+    "94b44a81-3969-4c2a-9c87-1d2782f172c2": {
+      "file": "Expenses.md",
+      "line": 3093,
+      "text": "[[2025-08-10]]"
+    },
+    "9ab27e6c-f05b-44a5-bee6-922c612d98e0": {
+      "file": "Expenses.md",
+      "line": 3104,
+      "text": "[[2025-08-11]]"
+    },
+    "fb722c89-c664-496e-b231-18941006a0ab": {
+      "file": "Expenses.md",
+      "line": 3119,
+      "text": "[[2025-08-12]]"
+    },
+    "e0bc0d13-ec9b-4a64-9d7c-b88ca170bd5f": {
+      "file": "Expenses.md",
+      "line": 3132,
+      "text": "[[2025-08-13]]"
+    },
+    "bf0731e7-116a-4988-af8f-fb0c9ab8eec7": {
+      "file": "Expenses.md",
+      "line": 3149,
+      "text": "[[2025-08-14]]"
+    },
+    "6ed0dd8e-9485-49a3-8193-da3d874e72c5": {
+      "file": "Expenses.md",
+      "line": 3172,
+      "text": "[[2025-08-15]]"
+    },
+    "b7c4664e-2b6a-4b20-bdf6-03a9176765a4": {
+      "file": "Expenses.md",
+      "line": 3187,
+      "text": "[[2025-08-16]]"
+    },
+    "5cfcb224-ffa6-4103-b227-3f26395e275c": {
+      "file": "Expenses.md",
+      "line": 3192,
+      "text": "[[2025-08-17]]"
+    },
+    "00aa720b-b4bf-4bf2-a554-a6a7085bef87": {
+      "file": "Expenses.md",
+      "line": 3209,
+      "text": "[[2025-08-18]]"
+    },
+    "4d81312d-1474-47c3-a69d-eb6e33b72f7a": {
+      "file": "Expenses.md",
+      "line": 3230,
+      "text": "[[2025-08-19]]"
+    },
+    "f2283736-d4ae-4b78-861b-68a1292b32b8": {
+      "file": "Expenses.md",
+      "line": 3249,
+      "text": "[[2025-08-20]]"
+    },
+    "25cfff61-db1e-4a04-af49-8c862d3e46ec": {
+      "file": "Expenses.md",
+      "line": 3278,
+      "text": "[[2025-08-21]]"
+    },
+    "a3b49cc9-3cf1-41d9-aa85-1bb1194197d7": {
+      "file": "Expenses.md",
+      "line": 3305,
+      "text": "[[2025-08-22]]"
+    },
+    "cc9e95a9-ff16-4dc8-b650-f06ded54c42e": {
+      "file": "Expenses.md",
+      "line": 3322,
+      "text": "[[2025-08-23]]"
+    },
+    "a2900549-9f81-4567-9a2c-0dcf0bb4d6a5": {
+      "file": "Expenses.md",
+      "line": 3341,
+      "text": "[[2025-08-24]]"
+    },
+    "ddc4a35a-f87c-4994-9044-ca5db9adab90": {
+      "file": "Expenses.md",
+      "line": 3352,
+      "text": "[[2025-08-25]]"
+    },
+    "31a666c7-e3d2-474c-b8f5-24d86fc4041a": {
+      "file": "Expenses.md",
+      "line": 3385,
+      "text": "[[2025-08-26]]"
+    },
+    "d57a7d37-4dcf-4642-9e20-a1cdb88fe0a6": {
+      "file": "Expenses.md",
+      "line": 3402,
+      "text": "[[2025-08-27]]"
+    },
+    "2233c71c-2af8-47a0-aa15-2c210ede9975": {
+      "file": "Expenses.md",
+      "line": 3425,
+      "text": "[[2025-08-28]]"
+    },
+    "4016454f-06e2-46ee-a451-2a311476834e": {
+      "file": "Expenses.md",
+      "line": 3442,
+      "text": "[[2025-08-29]]"
+    },
+    "0b4abc84-d905-409a-b685-ce77a9eac0b7": {
+      "file": "Expenses.md",
+      "line": 3459,
+      "text": "[[2025-08-30]]"
+    },
+    "eb0af217-d2c4-49b9-baf3-eed5048aec3f": {
+      "file": "Expenses.md",
+      "line": 3466,
+      "text": "[[2025-08-31]]"
+    },
+    "39332310-93fa-4743-ae97-0b40d517d96f": {
+      "file": "Expenses.md",
+      "line": 3524,
+      "text": "[[2025-09-02]]"
+    },
+    "6d296863-098f-46c5-9167-91a4532f1609": {
+      "file": "Expenses.md",
+      "line": 3531,
+      "text": "[[2025-09-03]]"
+    },
+    "5c55bb94-96b4-47b1-89e7-e0db3459ba8c": {
+      "file": "Expenses.md",
+      "line": 3538,
+      "text": "[[2025-09-04]]"
+    },
+    "d9e7f6e7-0424-402c-ad98-88f5502d0ce9": {
+      "file": "Expenses.md",
+      "line": 3545,
+      "text": "[[2025-09-05]]"
+    },
+    "2bd1b583-bd0c-4dcf-b049-fb7d50fe9b22": {
+      "file": "Expenses.md",
+      "line": 3551,
+      "text": "[[2025-09-06]]"
+    },
+    "43fb96a7-3917-435a-a282-0d398ea2fcd7": {
+      "file": "Expenses.md",
+      "line": 3558,
+      "text": "[[2025-09-08]]"
+    },
+    "24997c43-2de6-4f65-a01e-1892b829104d": {
+      "file": "Expenses.md",
+      "line": 3565,
+      "text": "[[2025-09-10]]"
+    },
+    "478133a1-f44a-484d-816c-6ec9fc41059d": {
+      "file": "Expenses.md",
+      "line": 3574,
+      "text": "[[2025-09-11]]"
+    },
+    "09f22202-1405-47b3-819f-c71b2330915d": {
+      "file": "Expenses.md",
+      "line": 3583,
+      "text": "[[2025-09-12]]"
+    },
+    "1817f328-2667-43b4-a80e-5cab06869586": {
+      "file": "Expenses.md",
+      "line": 3594,
+      "text": "[[2025-09-13]]"
+    },
+    "4fe5014d-6eed-4296-9cbd-269d1ca97260": {
+      "file": "Expenses.md",
+      "line": 3605,
+      "text": "[[2025-09-14]]"
+    },
+    "1965c6d4-5913-4717-9ebd-bcd671746720": {
+      "file": "Expenses.md",
+      "line": 3618,
+      "text": "[[2025-09-15]]"
+    },
+    "0da1ccde-dfae-4428-ab17-330294bb86eb": {
+      "file": "Expenses.md",
+      "line": 3625,
+      "text": "[[2025-09-16]]"
+    },
+    "d4d3f9b0-1ced-4a2c-8ae2-457ebbbf8870": {
+      "file": "Expenses.md",
+      "line": 3646,
+      "text": "[[2025-09-17]]"
+    },
+    "d8b19a0b-ce47-47d3-bb56-5e9ade1d690f": {
+      "file": "Expenses.md",
+      "line": 3655,
+      "text": "[[2025-09-18]]"
+    },
+    "f7703c8c-d270-474e-bd9c-196ca2fb8671": {
+      "file": "Expenses.md",
+      "line": 3664,
+      "text": "[[2025-09-19]]"
+    },
+    "8ca7e33d-a488-4c14-baf1-9146a93903b6": {
+      "file": "Expenses.md",
+      "line": 3669,
+      "text": "[[2025-09-20]]"
+    },
+    "72706978-556d-4166-b638-327c05cae325": {
+      "file": "Expenses.md",
+      "line": 3676,
+      "text": "[[2025-09-21]]"
+    },
+    "4eae4a79-410a-461b-81c4-ce3a12dfd6d4": {
+      "file": "Expenses.md",
+      "line": 3685,
+      "text": "[[2025-09-23]]"
+    },
+    "d37dd705-6e62-49af-9dab-78ce33e8266a": {
+      "file": "Expenses.md",
+      "line": 3698,
+      "text": "[[2025-09-24]]"
+    },
+    "5d0b1a22-2a3b-4413-8adf-4d5275c67045": {
+      "file": "Expenses.md",
+      "line": 3705,
+      "text": "[[2025-09-25]]"
+    },
+    "abbf0063-8eb0-41a5-9935-a640e7bd0f0c": {
+      "file": "Expenses.md",
+      "line": 3712,
+      "text": "[[2025-09-26]]"
+    },
+    "3a4e8fd7-b7e3-4b9e-aecf-458ca0763782": {
+      "file": "Expenses.md",
+      "line": 3717,
+      "text": "[[2025-09-27]]"
+    },
+    "7605b8bb-99f6-451b-9513-98f738671c6e": {
+      "file": "Expenses.md",
+      "line": 3728,
+      "text": "[[2025-09-29]]"
+    },
+    "fe0ee43d-fd1a-47c7-8a86-e494575ec60c": {
+      "file": "Expenses.md",
+      "line": 3795,
+      "text": "[[2025-10-01]]"
+    },
+    "68048891-4506-4b2e-ae80-584a82816cb9": {
+      "file": "Expenses.md",
+      "line": 3800,
+      "text": "[[2025-10-02]]"
+    },
+    "514ce498-4b27-4326-bb3a-d1c55e09ddad": {
+      "file": "Expenses.md",
+      "line": 3813,
+      "text": "[[2025-10-04]]"
+    },
+    "b47a0fa9-3821-4812-b1bd-06b8fcc7cab9": {
+      "file": "Expenses.md",
+      "line": 3820,
+      "text": "[[2025-10-05]]"
+    },
+    "02457f15-22ea-4862-a925-f2147c903452": {
+      "file": "Expenses.md",
+      "line": 3831,
+      "text": "[[2025-10-06]]"
+    },
+    "c864fb1a-aa25-4e36-8f71-73372e50df2e": {
+      "file": "Expenses.md",
+      "line": 3836,
+      "text": "[[2025-10-07]]"
+    },
+    "999f5583-b0f0-4237-98f3-856586f8b67f": {
+      "file": "Expenses.md",
+      "line": 3841,
+      "text": "[[2025-10-08]]"
+    },
+    "580838a6-42d9-4bc8-ad24-6ffae956bf2a": {
+      "file": "Expenses.md",
+      "line": 3852,
+      "text": "[[2025-10-09]]"
+    },
+    "c4a013d1-0302-40f5-b2e0-2e6b6f7d44b7": {
+      "file": "Expenses.md",
+      "line": 3869,
+      "text": "[[2025-10-10]]"
+    },
+    "c281f656-62a0-467a-9bd7-c7cc6459f55d": {
+      "file": "Expenses.md",
+      "line": 3878,
+      "text": "[[2025-10-11]]"
+    },
+    "aa1e632d-2c82-428e-aa7d-31dc6126ea37": {
+      "file": "Expenses.md",
+      "line": 3885,
+      "text": "[[2025-10-12]]"
+    },
+    "02235cca-39a3-4a79-bcd5-f2f38618cbe9": {
+      "file": "Expenses.md",
+      "line": 3892,
+      "text": "[[2025-10-13]]"
+    },
+    "7a3c8dfe-7aa6-4c94-80f1-47c84ae3cde1": {
+      "file": "Expenses.md",
+      "line": 3903,
+      "text": "[[2025-10-14]]"
+    },
+    "edaf4e17-7e6e-4e8f-9a84-d65ca0a4bd25": {
+      "file": "Expenses.md",
+      "line": 3912,
+      "text": "[[2025-10-15]]"
+    },
+    "958d138a-fa83-483c-b8d7-1b21fb9515dd": {
+      "file": "Expenses.md",
+      "line": 3923,
+      "text": "[[2025-10-16]]"
+    },
+    "ab7f1f8e-919c-4396-90a7-4b92b5dff4d2": {
+      "file": "Expenses.md",
+      "line": 3936,
+      "text": "[[2025-10-17]]"
+    },
+    "4c798126-38d1-4dce-888f-12b99c437802": {
+      "file": "Expenses.md",
+      "line": 3945,
+      "text": "[[2025-10-18]]"
+    },
+    "14d753cc-60ce-401f-b481-30f4c55ddd54": {
+      "file": "Expenses.md",
+      "line": 3950,
+      "text": "[[2025-10-19]]"
+    },
+    "29897fc4-080b-494d-95ef-00b2749c5ed3": {
+      "file": "Expenses.md",
+      "line": 3965,
+      "text": "[[2025-10-20]]"
+    },
+    "6d3cd6d9-9121-4527-b4da-17f76f7af2df": {
+      "file": "Expenses.md",
+      "line": 3976,
+      "text": "[[2025-10-21]]"
+    },
+    "92272853-d58d-4f34-b603-1f35c73c0416": {
+      "file": "Expenses.md",
+      "line": 3981,
+      "text": "[[2025-10-22]]"
+    },
+    "5b0cdca6-167a-4e5e-a46f-898fbdcd4864": {
+      "file": "Expenses.md",
+      "line": 3992,
+      "text": "[[2025-10-23]]"
+    },
+    "f876a7c8-339b-4ddb-baf5-23e445558490": {
+      "file": "Expenses.md",
+      "line": 3997,
+      "text": "[[2025-10-24]]"
+    },
+    "ebc1709b-df5e-47d5-b730-b0a90d604bc4": {
+      "file": "Expenses.md",
+      "line": 4010,
+      "text": "[[2025-10-25]]"
+    },
+    "9af9cf05-2de9-4b53-8ec9-d9bb99ae1dce": {
+      "file": "Expenses.md",
+      "line": 4015,
+      "text": "[[2025-10-26]]"
+    },
+    "a2aa48e9-d0b4-4a65-b748-b2a2f8d5c4f2": {
+      "file": "Expenses.md",
+      "line": 4028,
+      "text": "[[2025-10-27]]"
+    },
+    "c2bfb148-43e2-4561-99e7-be8d01f8d6cc": {
+      "file": "Expenses.md",
+      "line": 4037,
+      "text": "[[2025-10-28]]"
+    },
+    "4c0c15fd-f04e-44b3-b56b-157aaedb0eef": {
+      "file": "Expenses.md",
+      "line": 4046,
+      "text": "[[2025-10-29]]"
+    },
+    "c23b452e-4915-4314-9343-a36cb04454e5": {
+      "file": "Expenses.md",
+      "line": 4053,
+      "text": "[[2025-10-30]]"
+    },
+    "7fde9df4-124f-4983-973f-f24ae20d2880": {
+      "file": "Expenses.md",
+      "line": 4058,
+      "text": "[[2025-10-31]]"
+    },
+    "88a5678a-2603-449e-9198-c100444ac25a": {
+      "file": "Expenses.md",
+      "line": 4118,
+      "text": "[[2025-11-01]]"
+    },
+    "41d6e842-5a69-4e3d-85b5-4b3eb539107d": {
+      "file": "Expenses.md",
+      "line": 4127,
+      "text": "[[2025-11-02]]"
+    },
+    "5f417567-1ed1-46ba-94cc-cf3171491c50": {
+      "file": "Expenses.md",
+      "line": 4138,
+      "text": "[[2025-11-03]]"
+    },
+    "63a02b84-d616-4be4-8dde-54c32b1c0fb8": {
+      "file": "Expenses.md",
+      "line": 4155,
+      "text": "[[2025-11-04]]"
+    },
+    "3dafab2b-9e3d-4473-b9a4-4322e59da843": {
+      "file": "Expenses.md",
+      "line": 4166,
+      "text": "[[2025-11-05]]"
+    },
+    "f10dc8a7-0f26-421c-9099-45ca91fd0197": {
+      "file": "Expenses.md",
+      "line": 4175,
+      "text": "[[2025-11-06]]"
+    },
+    "2c79c051-06f0-4263-8488-05a152d3ff60": {
+      "file": "Expenses.md",
+      "line": 4184,
+      "text": "[[2025-11-07]]"
+    },
+    "c95d29b8-9c84-4708-8e43-a65d1b653bde": {
+      "file": "Expenses.md",
+      "line": 4197,
+      "text": "[[2025-11-08]]"
+    },
+    "67017083-ca4e-41f0-87a8-47f56cbb44f0": {
+      "file": "Expenses.md",
+      "line": 4206,
+      "text": "[[2025-11-09]]"
+    },
+    "26d982ae-2f0f-4c97-9c1b-3bbf5501df96": {
+      "file": "Expenses.md",
+      "line": 4213,
+      "text": "[[2025-11-10]]"
+    },
+    "d1476af1-6c41-413e-b548-19726bf3bbf4": {
+      "file": "Expenses.md",
+      "line": 4226,
+      "text": "[[2025-11-11]]"
+    },
+    "a010ed7c-b0ba-46d8-a9a1-e9d4f232db1d": {
+      "file": "Expenses.md",
+      "line": 4235,
+      "text": "[[2025-11-12]]"
+    },
+    "0743985a-de4a-4481-a85a-7b233c8020a6": {
+      "file": "Expenses.md",
+      "line": 4242,
+      "text": "[[2025-11-13]]"
+    },
+    "2909a970-de90-41c1-8269-0e213bfc403d": {
+      "file": "Expenses.md",
+      "line": 4257,
+      "text": "[[2025-11-14]]"
+    },
+    "84eb5cc3-780c-4935-ba68-7e2ec32983b4": {
+      "file": "Expenses.md",
+      "line": 4266,
+      "text": "[[2025-11-16]]"
+    },
+    "dc5f568d-2a6f-4463-aaac-5af484e32196": {
+      "file": "Expenses.md",
+      "line": 4279,
+      "text": "[[2025-11-17]]"
+    },
+    "0916cf32-bae3-4ac4-be76-6f337e038a3c": {
+      "file": "Expenses.md",
+      "line": 4286,
+      "text": "[[2025-11-18]]"
+    },
+    "45cdab7d-c2a1-4073-a3d6-34ef235ce21b": {
+      "file": "Expenses.md",
+      "line": 4295,
+      "text": "[[2025-11-19]]"
+    },
+    "9d6c7f62-da1e-4740-adaf-02ce67a53ef7": {
+      "file": "Expenses.md",
+      "line": 4304,
+      "text": "[[2025-11-21]]"
+    },
+    "cdb89dfd-f0a9-48a4-88a3-452e6d84c2c2": {
+      "file": "Expenses.md",
+      "line": 4309,
+      "text": "[[2025-11-22]]"
+    },
+    "7e24104d-2910-49d1-9656-2031d21264be": {
+      "file": "Expenses.md",
+      "line": 4318,
+      "text": "[[2025-11-23]]"
+    },
+    "6ad06037-e286-4573-b6ae-4cf9ded923d2": {
+      "file": "Expenses.md",
+      "line": 4327,
+      "text": "[[2025-11-24]]"
+    },
+    "acdb9483-65cf-43ee-a7cb-2091400a7135": {
+      "file": "Expenses.md",
+      "line": 4332,
+      "text": "[[2025-11-25]]"
+    },
+    "b5a284bf-f1c0-48fd-8d7b-06dd3f550b6b": {
+      "file": "Expenses.md",
+      "line": 4339,
+      "text": "[[2025-11-26]]"
+    },
+    "b3cf31b9-ced7-47c7-a1fa-8f4e0df3f6b8": {
+      "file": "Expenses.md",
+      "line": 4348,
+      "text": "[[2025-11-27]]"
+    },
+    "b6b6f55d-e8c3-41c7-b790-c283bce96d10": {
+      "file": "Expenses.md",
+      "line": 4353,
+      "text": "[[2025-11-28]]"
+    },
+    "ba83881b-7e2b-4db5-893f-e65237265ca2": {
+      "file": "Expenses.md",
+      "line": 4366,
+      "text": "[[2025-11-29]]"
+    },
+    "198a06fd-3847-4bc8-bde7-ce952482e24b": {
+      "file": "Expenses.md",
+      "line": 4385,
+      "text": "[[2025-11-30]]"
+    },
+    "842f5390-08a2-4522-9b58-19fe3e91a0ed": {
+      "file": "Expenses.md",
+      "line": 4444,
+      "text": "[[2025-12-01]]"
+    },
+    "909950dc-8e85-4382-816d-f3405a135d96": {
+      "file": "Expenses.md",
+      "line": 4451,
+      "text": "[[2025-12-02]]"
+    },
+    "9cd04de4-8ced-4f00-a6aa-a85d392577b6": {
+      "file": "Expenses.md",
+      "line": 4458,
+      "text": "[[2025-12-03]]"
+    },
+    "cf9d5aa6-7201-4b9c-8cd5-0cd2bcf92b12": {
+      "file": "Expenses.md",
+      "line": 4465,
+      "text": "[[2025-12-04]]"
+    },
+    "5db1aa11-7f05-4084-95c2-dd39a6e56aed": {
+      "file": "Expenses.md",
+      "line": 4472,
+      "text": "[[2025-12-05]]"
+    },
+    "8a35ef10-9720-4822-9318-997070452c8a": {
+      "file": "Expenses.md",
+      "line": 4479,
+      "text": "[[2025-12-06]]"
+    },
+    "88ea2f6f-8477-4205-9cc8-ea053ce55f0b": {
+      "file": "Expenses.md",
+      "line": 4486,
+      "text": "[[2025-12-07]]"
+    },
+    "6541152a-75cf-43d1-b7a9-46add3f57478": {
+      "file": "Expenses.md",
+      "line": 4497,
+      "text": "[[2025-12-08]]"
+    },
+    "276d6a7d-b034-4d8f-b6fc-3960509ce9d0": {
+      "file": "Expenses.md",
+      "line": 4510,
+      "text": "[[2025-12-09]]"
+    },
+    "a60a51e9-d39e-467e-ad53-237532fea92b": {
+      "file": "Expenses.md",
+      "line": 4523,
+      "text": "[[2025-12-10]]"
+    },
+    "269a49a7-13e9-4216-a949-d55169a14103": {
+      "file": "Expenses.md",
+      "line": 4528,
+      "text": "[[2025-12-11]]"
+    },
+    "338e74cf-7f90-477f-bff5-2e519f0dd8e9": {
+      "file": "Expenses.md",
+      "line": 4535,
+      "text": "[[2025-12-12]]"
+    },
+    "0c95bcdb-20fb-4611-a9e0-e2dc36cf41a6": {
+      "file": "Expenses.md",
+      "line": 4544,
+      "text": "[[2025-12-13]]"
+    },
+    "6ea6bdee-4656-4773-b1a5-e65cabd2e64d": {
+      "file": "Expenses.md",
+      "line": 4557,
+      "text": "[[2025-12-14]]"
+    },
+    "3f2b1d4f-30ec-4f11-aa18-54aec3f68ae1": {
+      "file": "Expenses.md",
+      "line": 4572,
+      "text": "[[2025-12-15]]"
+    },
+    "3daa1c1f-78eb-4968-b8ce-97097808df08": {
+      "file": "Expenses.md",
+      "line": 4577,
+      "text": "[[2025-12-16]]"
+    },
+    "d828a1e4-064c-46f2-9ea7-ae41cd8d7fcc": {
+      "file": "Expenses.md",
+      "line": 4586,
+      "text": "[[2025-12-17]]"
+    },
+    "87099cd4-a05e-4aeb-a772-70af3e2e55ce": {
+      "file": "Expenses.md",
+      "line": 4595,
+      "text": "[[2025-12-18]]"
+    },
+    "316470c0-2d91-4995-bcfd-2ea925d387e1": {
+      "file": "Expenses.md",
+      "line": 4600,
+      "text": "[[2025-12-19]]"
+    },
+    "97e7be77-545b-4540-aee8-a3fb726b2669": {
+      "file": "Expenses.md",
+      "line": 4611,
+      "text": "[[2025-12-20]]"
+    },
+    "12fc65fb-42ff-48fd-8d16-388953ad6ad3": {
+      "file": "Expenses.md",
+      "line": 4616,
+      "text": "[[2025-12-21]]"
+    },
+    "b5164cbb-d8ac-426f-8bb0-a2ddb7f9e596": {
+      "file": "Expenses.md",
+      "line": 4625,
+      "text": "[[2025-12-22]]"
+    },
+    "7042331a-1938-4cea-afba-e3fb5f8026a2": {
+      "file": "Expenses.md",
+      "line": 4634,
+      "text": "[[2025-12-23]]"
+    },
+    "493f8123-2924-4163-baca-191591cfa3a8": {
+      "file": "Expenses.md",
+      "line": 4645,
+      "text": "[[2025-12-24]]"
+    },
+    "a3795ab3-f710-431e-937c-9f0a8bbe7d88": {
+      "file": "Expenses.md",
+      "line": 4652,
+      "text": "[[2025-12-26]]"
+    },
+    "5586cc84-2e19-4efa-8d35-7fcb9948cc01": {
+      "file": "Expenses.md",
+      "line": 4657,
+      "text": "[[2025-12-27]]"
+    },
+    "c6e301fd-1863-4e80-a297-eab07ee6a7ba": {
+      "file": "Expenses.md",
+      "line": 4671,
+      "text": "[[2025-12-28]]"
+    },
+    "b3531cc5-6a00-4ec4-9495-2f18e0ba8925": {
+      "file": "Expenses.md",
+      "line": 4678,
+      "text": "[[2025-12-29]]"
+    },
+    "ee80242d-13f2-42a0-8afb-cb65026cf471": {
+      "file": "Expenses.md",
+      "line": 4685,
+      "text": "[[2025-12-30]]"
+    },
+    "972f6e1e-71b2-4108-ab2c-24213f622ff3": {
+      "file": "Expenses.md",
+      "line": 4693,
+      "text": "[[2025-12-31]]"
+    },
+    "665741bd-d56c-40fc-ab06-c9a71f440eab": {
+      "file": "Moscow June 2024.md",
+      "line": 13,
+      "text": "регистрация за 24 часа online"
+    },
+    "68675fa9-585c-4418-955f-0ef66b07af30": {
+      "file": "Note-taking lesson 7B.md",
+      "line": 24,
+      "text": "Book"
+    },
+    "6867601b-2afd-46be-ac87-d0e78421ac51": {
+      "file": "Note-taking lesson 7B.md",
+      "line": 39,
+      "text": "Journal (Журнал)"
+    },
+    "68676073-4a3e-4917-9830-ac3c168062a1": {
+      "file": "Note-taking lesson 7B.md",
+      "line": 50,
+      "text": "Results"
+    },
+    "68707d70-5aeb-413f-b566-8594f8c3e33f": {
+      "file": "S - Job Skills 202507111048.md",
+      "line": 44,
+      "text": "Из Договора с Комп-Ас"
+    },
+    "690e5989-d43a-480f-ae8b-30a72608564d": {
+      "file": "Z - AI Summit 2 20251108.md",
+      "line": 142,
+      "text": "06:41 - Simon Sinek - The Golden Circle `Why>How>What`"
+    },
+    "68d9fbf3-4bf8-4ba0-bf6f-ebcdd34a9a5b": {
+      "file": "Z - Driving Australia 20250914.md",
+      "line": 155,
+      "text": "**deter** drink drivers - **удержать** водителей от пьянства"
+    },
+    "68957041-8d5f-4717-9377-89e1982a156d": {
+      "file": "Z - Manus AI YouTube 20250808.md",
+      "line": 2,
+      "text": "Query 1"
+    },
+    "4264e03e-ea22-44f8-bec8-2e9997989f48": {
+      "file": "Z - Topup Bendigo 100USDT 20250930.md",
+      "line": 19,
+      "text": "Your IP address is located in a country or region where this payment method cannot be supported at the moment."
+    },
+    "688cc74f-93c2-4e4d-af87-2c659c37728c": {
+      "file": "Z - Travel History 20250801.md",
+      "line": 35,
+      "text": "India [[2024-10-09]] - [[2024-10-15]] Kazakhstan"
+    },
+    "68635983-98dd-469c-a653-6b048de63e0e": {
+      "file": "hls__Pierrakos - Fear No Evil The Pathwork Method of Transforming the Lower Self.md",
+      "line": 8,
+      "text": "hl-color:: yellow"
+    },
+    "68635b43-8082-4d80-9959-abf931e8611f": {
+      "file": "hls__Pierrakos - Fear No Evil The Pathwork Method of Transforming the Lower Self.md",
+      "line": 13,
+      "text": "hl-color:: yellow"
+    },
+    "6889c576-3e50-4b4f-9f7d-47f2b24c24f4": {
+      "file": "hls__Pierrakos - Fear No Evil The Pathwork Method of Transforming the Lower Self.md",
+      "line": 18,
+      "text": "hl-color:: yellow"
+    },
+    "68294c5b-c0ca-4654-a721-8189eabe7330": {
+      "file": "Витамины.md",
+      "line": 30,
+      "text": "начал курс [[Shilajit]]"
+    }
+  },
+  "refs": [
+    {
+      "ref_file": "@Fear No Evil%3A The Pathwork Method of Transforming the Lower Self.md",
+      "ref_line": 13,
+      "uuid": "68635983-98dd-469c-a653-6b048de63e0e",
+      "context": "- ((68635983-98dd-469c-a653-6b048de63e0e))",
+      "file": "hls__Pierrakos - Fear No Evil The Pathwork Method of Transforming the Lower Self.md",
+      "line": 8,
+      "text": "hl-color:: yellow"
+    },
+    {
+      "ref_file": "@Fear No Evil%3A The Pathwork Method of Transforming the Lower Self.md",
+      "ref_line": 15,
+      "uuid": "6889c576-3e50-4b4f-9f7d-47f2b24c24f4",
+      "context": "- ((6889c576-3e50-4b4f-9f7d-47f2b24c24f4))",
+      "file": "hls__Pierrakos - Fear No Evil The Pathwork Method of Transforming the Lower Self.md",
+      "line": 18,
+      "text": "hl-color:: yellow"
+    },
+    {
+      "ref_file": "AI - Logseq Expense Query Scripting 20250814.md",
+      "ref_line": 26,
+      "uuid": "689dcdd9-c1c5-46df-8615-e87aaf7ea0a1",
+      "context": "- 8. один родительский блок ((689dcdd9-c1c5-46df-8615-e87aaf7ea0a1))",
+      "file": "AI - Logseq Expense Query Scripting 20250814.md",
+      "line": 1399,
+      "text": "Список без ссылок"
+    },
+    {
+      "ref_file": "AI - Logseq Expense Query Scripting 20250814.md",
+      "ref_line": 28,
+      "uuid": "689dcdd9-c1c5-46df-8615-e87aaf7ea0a1",
+      "context": "- 9. - ((689dcdd9-c1c5-46df-8615-e87aaf7ea0a1)) - Список без ссылок   id:: 689dcdd9-c1c5-46df-8615-e",
+      "file": "AI - Logseq Expense Query Scripting 20250814.md",
+      "line": 1399,
+      "text": "Список без ссылок"
+    },
+    {
+      "ref_file": "AI - Logseq Expense Query Scripting 20250814.md",
+      "ref_line": 796,
+      "uuid": "689dcdd9-c1c5-46df-8615-e87aaf7ea0a1",
+      "context": "((689dcdd9-c1c5-46df-8615-e87aaf7ea0a1))",
+      "file": "AI - Logseq Expense Query Scripting 20250814.md",
+      "line": 1399,
+      "text": "Список без ссылок"
+    },
+    {
+      "ref_file": "AI - Logseq Expense Query Scripting 20250814.md",
+      "ref_line": 913,
+      "uuid": "689dcdd9-c1c5-46df-8615-e87aaf7ea0a1",
+      "context": "- 🧑 21:59 - ((689dcdd9-c1c5-46df-8615-e87aaf7ea0a1))",
+      "file": "AI - Logseq Expense Query Scripting 20250814.md",
+      "line": 1399,
+      "text": "Список без ссылок"
+    },
+    {
+      "ref_file": "AI - Logseq Expense Query Scripting 20250814.md",
+      "ref_line": 1065,
+      "uuid": "689dcdd9-c1c5-46df-8615-e87aaf7ea0a1",
+      "context": "Под родителем `((689dcdd9-c1c5-46df-8615-e87aaf7ea0a1))` укажи пункты так:",
+      "file": "AI - Logseq Expense Query Scripting 20250814.md",
+      "line": 1399,
+      "text": "Список без ссылок"
+    },
+    {
+      "ref_file": "CC - logseq-spa research and improvements 20260423.md",
+      "ref_line": 273,
+      "uuid": "b9ff2f32-d00c-4e7c-81a9-1727f0ff3dea",
+      "context": "- 16:06 - logseq-spa ● Проверил transclusion (`((uuid))`-рендеринг) на real-vault:  - Страница `2026",
+      "file": "Expenses.md",
+      "line": 132,
+      "text": "[[2026-01-02]]"
+    },
+    {
+      "ref_file": "Note-taking lesson 7B.md",
+      "ref_line": 71,
+      "uuid": "68675fa9-585c-4418-955f-0ef66b07af30",
+      "context": "- ((68675fa9-585c-4418-955f-0ef66b07af30))",
+      "file": "Note-taking lesson 7B.md",
+      "line": 24,
+      "text": "Book"
+    },
+    {
+      "ref_file": "Note-taking lesson 7B.md",
+      "ref_line": 72,
+      "uuid": "6867601b-2afd-46be-ac87-d0e78421ac51",
+      "context": "- ((6867601b-2afd-46be-ac87-d0e78421ac51))",
+      "file": "Note-taking lesson 7B.md",
+      "line": 39,
+      "text": "Journal (Журнал)"
+    },
+    {
+      "ref_file": "Note-taking lesson 7B.md",
+      "ref_line": 73,
+      "uuid": "68676073-4a3e-4917-9830-ac3c168062a1",
+      "context": "- ((68676073-4a3e-4917-9830-ac3c168062a1))",
+      "file": "Note-taking lesson 7B.md",
+      "line": 50,
+      "text": "Results"
+    },
+    {
+      "ref_file": "S - Job Skills 202507111048.md",
+      "ref_line": 21,
+      "uuid": "68707d70-5aeb-413f-b566-8594f8c3e33f",
+      "context": "- ((68707d70-5aeb-413f-b566-8594f8c3e33f))",
+      "file": "S - Job Skills 202507111048.md",
+      "line": 44,
+      "text": "Из Договора с Комп-Ас"
+    },
+    {
+      "ref_file": "Z - Manus AI YouTube 20250808.md",
+      "ref_line": 9,
+      "uuid": "68957041-8d5f-4717-9377-89e1982a156d",
+      "context": "- После ((68957041-8d5f-4717-9377-89e1982a156d))",
+      "file": "Z - Manus AI YouTube 20250808.md",
+      "line": 2,
+      "text": "Query 1"
+    }
+  ]
+}

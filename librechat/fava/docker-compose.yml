@@ -1,0 +1,10 @@
+services:
+  fava:
+    image: yegle/fava:latest
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:5000:5000"
+    volumes:
+      - /home/claude/projects/tools-obsidian/finance:/data:ro
+    environment:
+      BEANCOUNT_FILE: /data/main.beancount
