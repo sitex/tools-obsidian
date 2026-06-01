@@ -2,8 +2,8 @@
 """
 Generate geo/travel.geojson from logseq-content location pages.
 
-Reads:  /home/rocky/logseq-content/pages/*.md  (read-only)
-Writes: /home/rocky/projects/tools-obsidian/geo/travel.geojson
+Reads:  data/pages/*.md  (snapshot; live: /home/rocky/logseq-content/pages/)
+Writes: geo/travel.geojson
 
 Coordinates are resolved from KNOWN_COORDS dict (pages have no GPS data).
 Places without known coords get coordinates: null and are listed separately.
@@ -14,8 +14,9 @@ import re
 import sys
 from pathlib import Path
 
-PAGES_DIR = Path("/home/rocky/logseq-content/pages")
-GEO_DIR   = Path("/home/rocky/projects/tools-obsidian/geo")
+_REPO     = Path(__file__).parent.parent
+PAGES_DIR = _REPO / "data/pages"
+GEO_DIR   = _REPO / "geo"
 OUTPUT    = GEO_DIR / "travel.geojson"
 
 # Known coordinates [lon, lat] for cities and specific places

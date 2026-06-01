@@ -1,0 +1,9 @@
+- #место
+- Тип:: Магазин
+- Локация:: [[Австралия]]
+- [[2024-05-05]]
+	- [[Products]]
+		- Coco Cola Lime 1L
+		- Coco Cola K-Wave 1 can
+	- [[Price]]
+		- 6.65 AU$

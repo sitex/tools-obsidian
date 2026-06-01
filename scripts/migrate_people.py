@@ -2,8 +2,8 @@
 """
 Migrate person pages from logseq-content/pages/ → tools-obsidian/people/
 
-Reads:  /home/rocky/logseq-content/pages/*.md  (read-only)
-Writes: /home/rocky/projects/tools-obsidian/people/*.md
+Reads:  data/pages/*.md  (snapshot; live: /home/rocky/logseq-content/pages/)
+Writes: people/*.md
 
 Detection: pages with #человек, Тип:: Человек, or type:: [[Person]]
 Output:   YAML frontmatter + cleaned Logseq content
@@ -13,8 +13,9 @@ import re
 import sys
 from pathlib import Path
 
-PAGES_DIR  = Path("/home/rocky/logseq-content/pages")
-PEOPLE_DIR = Path("/home/rocky/projects/tools-obsidian/people")
+_REPO      = Path(__file__).parent.parent
+PAGES_DIR  = _REPO / "data/pages"
+PEOPLE_DIR = _REPO / "people"
 
 PERSON_MARKERS = [
     r"#человек",

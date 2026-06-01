@@ -1,0 +1,15 @@
+- #место
+- Тип:: Супермаркет
+- Alias:: Aldi
+- Локация:: [[Австралия]]
+- [[2024-05-02]]
+	- [[Price]]
+		- 19,47 AU$
+	- [[Products]]
+		- Apple
+		- 2x Kinder
+		- Mandarin 750g
+		- Roblox 10 AU$
+- [[2024-04-23]]
+	- [[Products]]
+		- Roblox 10 AU$

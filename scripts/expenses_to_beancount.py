@@ -2,8 +2,8 @@
 """
 Logseq Expenses.md → beancount converter.
 
-Source:  /home/rocky/logseq-content/pages/Expenses.md
-Output:  /home/rocky/projects/tools-obsidian/finance/main.beancount
+Source:  data/pages/Expenses.md  (snapshot; live: /home/rocky/logseq-content/pages/Expenses.md)
+Output:  finance/main.beancount
 
 Format of source (Logseq outline, tabs as indent):
   - ## 2026
@@ -21,8 +21,9 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Optional
 
-SOURCE = Path("/home/rocky/logseq-content/pages/Expenses.md")
-OUTPUT = Path("/home/rocky/projects/tools-obsidian/finance/main.beancount")
+_REPO = Path(__file__).parent.parent
+SOURCE = _REPO / "data/pages/Expenses.md"
+OUTPUT = _REPO / "finance/main.beancount"
 
 # ─── Category → beancount account ───────────────────────────────────────────
 

@@ -1,0 +1,24 @@
+- #место
+- Тип:: Место
+- Описание:: Australian School of Meditation and Yoga, место где проходит Киртан
+- Alias:: Asmy
+- Локация:: [[Австралия]]
+- Учителя
+	- [[ASMY-Emily]]
+	- [[ASMY-RadhaKrishna]]
+	- [[ASMY-Emma]]
+- Йога
+	- [[ASMY-Angy]]
+- Музыканты
+	- [[ASMY-Wane]]
+	- [[ASMY-Bass-Guitarist]]
+	- [[ASMY-Guitarist]]
+- Киртан
+	- [[ASMY-Andy]]
+	- [[ASMY-Nathan]]
+	- [[ASMY-Kim]]
+	- [[ASMY-Uki-CN]]
+	- [[ASMY-Angy-CN]]
+	- [[ASMY-Amy-Red]]
+	- [[ASMY-Tanya]]
+-

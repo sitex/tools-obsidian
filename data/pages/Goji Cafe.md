@@ -1,0 +1,11 @@
+- #место
+- Тип:: Кафе
+- Alias:: Goji
+- Описание:: Кафе в [[Голд Кост]]
+- Локация:: [[Голд Кост]], [[Австралия]]
+- [[2024-05-01]]
+	- Cappuccino Big
+	- Hot Chocolate Medium
+	- 2 white cookies
+	- 1 chocolate cookie
+	- 18,5 A$
