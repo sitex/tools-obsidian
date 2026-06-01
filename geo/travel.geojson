@@ -1,0 +1,946 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.6173,
+            55.7558
+          ],
+          [
+            115.2126,
+            -8.6705
+          ],
+          [
+            115.2624,
+            -8.5069
+          ],
+          [
+            77.209,
+            28.6139
+          ],
+          [
+            77.7027,
+            27.5795
+          ],
+          [
+            85.324,
+            27.7172
+          ],
+          [
+            153.0251,
+            -27.4698
+          ],
+          [
+            144.9631,
+            -37.8136
+          ],
+          [
+            153.4217,
+            -28.0167
+          ],
+          [
+            115.2624,
+            -8.5069
+          ],
+          [
+            153.4217,
+            -28.0167
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Travel route",
+        "type": "route",
+        "description": "Approximate travel history (manually curated)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "10 Raymond",
+        "type": "address",
+        "location": "Мельбурн, Австралия",
+        "description": "Временный адрес в Мельбурне на НГ 2026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7027,
+          27.5795
+        ]
+      },
+      "properties": {
+        "name": "11 Flowers",
+        "type": "cafe",
+        "location": "Вриндаван, Индия"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.43,
+          -28.08
+        ]
+      },
+      "properties": {
+        "name": "2 Santabelle",
+        "type": "место",
+        "location": "Австралия"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.42,
+          -28.09
+        ]
+      },
+      "properties": {
+        "name": "59 Larnock",
+        "type": "address",
+        "location": "Австралия",
+        "description": "Адрес Настя Самородова"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "7-Eleven",
+        "type": "магазин",
+        "location": "Австралия"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "711",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "ACS",
+        "type": "организация",
+        "location": "Австралия",
+        "description": "ACS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "ALDI",
+        "type": "супермаркет",
+        "location": "Австралия",
+        "alias": "Aldi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "ASMY",
+        "type": "место",
+        "location": "Австралия",
+        "description": "Australian School of Meditation and Yoga, место где проходит Киртан",
+        "alias": "Asmy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.263,
+          -8.508
+        ]
+      },
+      "properties": {
+        "name": "Adi House Moding",
+        "type": "home",
+        "location": "Убуд, Бали",
+        "description": "Дом в Убуде. AHM аббревиатура",
+        "alias": "АХМ, Ахм, Adi-House-Modding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Advice",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Agi",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "AusPost",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "BOQ",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "CC - Logseq journal review 20260212",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "CW",
+        "type": "магазин",
+        "location": "Австралия"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "Cash Converters",
+        "type": "магазин",
+        "location": "Австралия",
+        "description": "Магазин подержанных товаров"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1889,
+          -8.4095
+        ]
+      },
+      "properties": {
+        "name": "Cheeky Monkey",
+        "type": "cafe",
+        "location": "Бали",
+        "alias": "Чики Манки"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3989,
+          -28.0452
+        ]
+      },
+      "properties": {
+        "name": "Clear Island Waters",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2624,
+          -8.5069
+        ]
+      },
+      "properties": {
+        "name": "Cocoku",
+        "type": "cafe",
+        "location": "Убуд, Бали",
+        "description": "Кафе в Убуде",
+        "alias": "Кококу"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "Coles",
+        "type": "магазин",
+        "location": "Австралия"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Commonwealth Bank",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.54,
+          -28.1667
+        ]
+      },
+      "properties": {
+        "name": "Coolangatta",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Flannerys Robina",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "GC Gummy",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "GC Magi",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "GYG",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4217,
+          -28.0167
+        ]
+      },
+      "properties": {
+        "name": "Goji Cafe",
+        "type": "cafe",
+        "location": "Голд Кост, Австралия",
+        "description": "Кафе в Голд Кост",
+        "alias": "Goji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "Goji",
+        "type": "cafe",
+        "location": "Австралия",
+        "description": "Кафе в Голд Кост"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Gold Coast Music",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Guzman y Gomez",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Harvest Cafe",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Health shop",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1889,
+          -8.4095
+        ]
+      },
+      "properties": {
+        "name": "Home Cafe",
+        "type": "cafe",
+        "location": "Бали",
+        "description": "Кафе на Бали"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "IGA",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Italian Cafe",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "Kurrawa",
+        "type": "пляж",
+        "location": "Австралия",
+        "description": "Пляж где встречаю рассвет"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Logan Park Farm",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1889,
+          -8.4095
+        ]
+      },
+      "properties": {
+        "name": "Montana Cafe",
+        "type": "cafe",
+        "location": "Бали",
+        "description": "Кафе на Бали"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "PC",
+        "type": "торговый центр",
+        "location": "Австралия",
+        "description": "Pacific Centre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.415,
+          -28.034
+        ]
+      },
+      "properties": {
+        "name": "Pacific Fair",
+        "type": "место",
+        "location": "Австралия"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Pizza Hut",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "Q Centre",
+        "type": "место",
+        "location": "Австралия"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Robina Donor Centre",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3826,
+          -28.0799
+        ]
+      },
+      "properties": {
+        "name": "Robina",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Soak",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Subway",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Tokyo Cafe",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1889,
+          -8.4095
+        ]
+      },
+      "properties": {
+        "name": "Tuta House",
+        "type": "home",
+        "location": "Бали",
+        "description": "Домик Яна, назван в честь детей владельцев (Tutu, Puta)",
+        "alias": "ТХ, Тута Хаус, Тута-Хаус, Tuta-House"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "Warehouse",
+        "type": "место",
+        "location": "Австралия"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "Woolworth",
+        "type": "магазин",
+        "location": "Австралия"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Woolworths",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Zippy Cafe & Juice Bar",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "Австралия",
+        "type": "country",
+        "description": "Страна-континент в Южном полушарии"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9237,
+          48.0196
+        ]
+      },
+      "properties": {
+        "name": "Алматы",
+        "type": "city",
+        "location": "Казахстан",
+        "description": "Крупнейший город Казахстана"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.9253,
+          -14.235
+        ]
+      },
+      "properties": {
+        "name": "Бразилия",
+        "type": "country",
+        "description": "Крупнейшая страна Южной Америки"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7027,
+          27.5795
+        ]
+      },
+      "properties": {
+        "name": "Вриндаван",
+        "type": "city",
+        "location": "Индия",
+        "description": "Священный город, духовный центр вайшнавизма"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5069,
+          14.6349
+        ]
+      },
+      "properties": {
+        "name": "Гватемала",
+        "type": "country"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4217,
+          -28.0167
+        ]
+      },
+      "properties": {
+        "name": "Голд Кост",
+        "type": "city",
+        "location": "Австралия",
+        "description": "Пляжный город на восточном побережье Австралия, штат Квинсленд"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9629,
+          20.5937
+        ]
+      },
+      "properties": {
+        "name": "Девраха Баба Ашрам",
+        "type": "ashram",
+        "location": "Индия"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Заправка",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9629,
+          20.5937
+        ]
+      },
+      "properties": {
+        "name": "Индия",
+        "type": "country",
+        "description": "Страна в Южной Азии с богатой духовной традицией"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9237,
+          48.0196
+        ]
+      },
+      "properties": {
+        "name": "Казахстан",
+        "type": "country",
+        "description": "Страна в Центральной Азии"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.324,
+          27.7172
+        ]
+      },
+      "properties": {
+        "name": "Катманду",
+        "type": "city",
+        "location": "Непал"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "Магазин CW",
+        "type": "магазин",
+        "location": "Австралия",
+        "description": "CigarWorld",
+        "alias": "CigarWorld, CW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "Мельбурн",
+        "type": "city",
+        "location": "Австралия"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6173,
+          55.7558
+        ]
+      },
+      "properties": {
+        "name": "Москва",
+        "type": "city",
+        "location": "Россия",
+        "description": "Столица России"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "name": "Музыкальный Магазин",
+        "type": "place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.124,
+          28.3949
+        ]
+      },
+      "properties": {
+        "name": "Непал",
+        "type": "country"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.7751,
+          -25.2744
+        ]
+      },
+      "properties": {
+        "name": "Чайный Дом",
+        "type": "место",
+        "location": "Австралия",
+        "alias": "ЧД"
+      }
+    }
+  ]
+}
