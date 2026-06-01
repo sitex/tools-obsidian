@@ -1,0 +1,82 @@
+version: 1.2.1
+
+# MCP Servers
+mcpServers:
+  filesystem:
+    # @modelcontextprotocol/server-filesystem
+    command: npx
+    args:
+      - "-y"
+      - "@modelcontextprotocol/server-filesystem"
+      - "/vault"
+    type: stdio
+    # Доступ к logseq-content vault (монтируется как /vault в compose)
+
+  beancount:
+    command: python3
+    args:
+      - "/mcp/beancount_mcp.py"
+    type: stdio
+    # Враппер к /data/main.beancount
+
+# Endpoints
+endpoints:
+  anthropic:
+    apiKey: "${ANTHROPIC_API_KEY}"
+    models:
+      default:
+        - claude-sonnet-4-6
+      fetch: false
+      list:
+        - claude-opus-4-8
+        - claude-sonnet-4-6
+        - claude-haiku-4-5
+    titleConvo: true
+    titleModel: claude-haiku-4-5
+    summarize: false
+    summaryModel: claude-haiku-4-5
+    forcePrompt: false
+    dropParams:
+      - "stop"
+      - "user"
+      - "frequency_penalty"
+      - "presence_penalty"
+    maxContextTokens: 200000
+
+# Interface settings
+interface:
+  privacyPolicy:
+    externalUrl: ""
+    openNewTab: false
+  termsOfService:
+    externalUrl: ""
+    openNewTab: false
+  endpointsMenu: true
+  modelSelect: true
+  parameters: true
+  sidePanel: true
+  presets: true
+
+# Cache settings
+cache: true
+
+# File handling
+fileConfig:
+  endpoints:
+    anthropic:
+      disabled: false
+      fileLimit: 10
+      fileSizeLimit: 10  # MB
+      totalSizeLimit: 50 # MB
+      supportedMimeTypes:
+        - "image/.*"
+        - "application/pdf"
+        - "text/.*"
+
+# Registration settings — закрыто по умолчанию, управляется через .env
+registration:
+  socialLogins:
+    - google
+    - github
+  allowedDomains:
+    - "gsitex@gmail.com"
