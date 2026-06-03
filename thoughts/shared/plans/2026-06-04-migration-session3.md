@@ -22,7 +22,7 @@ GitHub repo: sitex/tools-obsidian
 
 ## Открытые задачи
 
-- [ ] #8 Конвертация block-refs: написать scripts/convert_block_refs.py (13 штук, все разрешены)
+- [x] #8 Конвертация block-refs — закрыт: в vault только 1 ref, в logseq-content Logseq обрабатывает нативно
 - [ ] #7 Fava: деплой на Sydney (`scp librechat/fava/ claude@217.216.76.5:~/fava/ && docker compose up -d`)
 - [ ] #4 Голос: интеграция process_voice.py с Telegram-ботом на Sydney
 - [ ] #6 LibreChat: деплой на Sydney (заполнить .env, настроить nginx Tailscale hostname)
